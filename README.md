@@ -1,3 +1,9 @@
+# ⛔️ DEPRECATED
+
+**This version of the `js-joda-locale` package is depreacted!** 
+
+**No updates will be published to the npm package `js-joda-locale`, please use `@js-joda/locale` instead**
+
 additional date-time classes that complement those in js-joda
 ==============================================
 
